@@ -1,6 +1,17 @@
+\[If you're looking for the Pony roguelike, go to [Novitiate](https://github.com/jtfmumm/novitiate).\]
+
 # Acolyte
 
-A procedurally generated RPG inspired by Rogue and written in Pony.
+A graphical procedurally generated RPG inspired by Rogue and written in Rust.
+
+This game is still in its early stages, but it is a complete game with
+increasing difficulty and new elements as you move deeper into the dungeon.
+Because everything is procedurally generated, it's a different game
+every time you play.
+
+* [Acolyte Instructions](#acolyte-instructions)
+* [Installation](#installation)
+* [Reporting Bugs](#reporting-bugs)
 
 ## Acolyte Instructions
 
@@ -38,3 +49,24 @@ INVENTORY MODE:
   x - swap last weapon equipped  
   i/\<esc\> - return to NORMAL MODE  
 
+## Installation
+
+Acolyte is available on OSX, Windows, and Linux. 
+
+Go to [https://github.com/jtfmumm/acolyte/releases](https://github.com/jtfmumm/acolyte/releases) and 
+right click the latest release for your operating system. Click "Save Link As..." or something to that
+effect (depends on browser) and save the zipped release somewhere on your computer. Extract the files
+into a folder. 
+
+### OSX
+Double-click `acolyte` to start the game.
+
+### Windows
+Double-click `acolyte.exe` to start the game.
+
+### Linux
+Double-click `acolyte` to start the game.
+
+## Reporting Bugs
+
+If you find a bug, please open an issue on this repository or e-mail me at jtfmumm{at}gmail.com. 
