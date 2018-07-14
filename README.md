@@ -59,8 +59,14 @@ effect (depends on browser) and save the zipped release somewhere on your comput
 into a folder. 
 
 ### OSX
-Right-click `acolyte` and click Open to start the game (double clicking will probably lead to a window
-saying you can't run the application). 
+Open a Terminal, navigate to the folder where you put `acolyte`, and then run 
+```
+chmod +x acolyte
+./acolyte
+```
+
+If you don't want to run it through the terminal, right-click `acolyte` and click Open to start the game 
+(double clicking will probably lead to a window saying you can't run the application). 
 
 ### Windows
 Double-click `acolyte.exe` to start the game.
