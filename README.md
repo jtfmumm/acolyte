@@ -68,7 +68,7 @@ Double-click `acolyte.exe` to start the game.
 You might be able to double-click `acolyte` to start the game.
 Otherwise, open a Terminal, navigate to the folder where you put `acolyte`, and then run 
 ```
-sudo chmod +x acolyte
+chmod +x acolyte
 ./acolyte
 ```
 
