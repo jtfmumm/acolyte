@@ -53,7 +53,7 @@ INVENTORY MODE:
 
 ## Installation
 
-Acolyte is available on OSX, Windows, and Linux. 
+Acolyte is available on OSX, Windows, and Linux (Ubuntu Bionic binary for the time being). 
 
 Go to [https://github.com/jtfmumm/acolyte/releases](https://github.com/jtfmumm/acolyte/releases) and 
 right click the latest release for your operating system. Click "Save Link As..." or something to that
