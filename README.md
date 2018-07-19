@@ -19,6 +19,7 @@ The object of the game is to find the Staff of Eternity.
 
 ### Commands
 
+```
 NORMAL MODE (moving around map):  
   \<arrows\> - movement / attack  
   . - wait (turn passes without action)      
@@ -48,6 +49,7 @@ INVENTORY MODE:
   l - (l)ook at item  
   x - swap last weapon equipped  
   i/\<esc\> - return to NORMAL MODE  
+```
 
 ## Installation
 
