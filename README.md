@@ -62,9 +62,6 @@ chmod +x acolyte
 ./acolyte
 ```
 
-If you don't want to run it through the terminal, right-click `acolyte` and click Open to start the game 
-(double clicking will probably lead to a window saying you can't run the application). 
-
 ### Windows
 Double-click `acolyte.exe` to start the game.
 
