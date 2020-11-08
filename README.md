@@ -2,7 +2,7 @@
 
 # Acolyte
 
-A graphical, procedurally generated RPG inspired by Rogue and written in Rust.
+A graphical, procedurally generated roguelike RPG written in Rust.
 
 This game is still in its early stages, but it is a complete game with
 an overworld and dungeons of increasing difficulty as you progress. In order to discover new regions of the overworld, you must find Runes hidden in the dungeons. Because the game is procedurally generated, maps, locations, and dialogue will differ across games. 
