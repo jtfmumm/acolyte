@@ -11,6 +11,10 @@ an overworld and dungeons of increasing difficulty as you progress. In order to 
 * [Installation](#installation)
 * [Reporting Bugs](#reporting-bugs)
 
+![Splash screen](splash-screen-demo.png)
+
+![Overworld](overworld-demo.png)
+
 ## Acolyte Instructions
 
 The object of the game is to find the Staff of Eternity.
